@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221941180901",
+    "project_id": "homework-firebase-2df8e",
+    "storage_bucket": "homework-firebase-2df8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221941180901:android:2726a7ab1505b289d8a70c",
+        "android_client_info": {
+          "package_name": "nferno1.homework_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221941180901-fv3uhpd64ptt0n6rt4h1m91e0mrtvotq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqwjfeNdmi1rxljghVEnzxbuxqAJFzJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221941180901-fv3uhpd64ptt0n6rt4h1m91e0mrtvotq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
